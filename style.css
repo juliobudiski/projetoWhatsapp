@@ -1,0 +1,39 @@
+body{
+    background-color: #1ebea5;
+}
+.logo, .phone{
+    text-align: center;
+        
+}
+h1{
+    font-family: "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto, Oxygen", "Ubuntu", "Cantarell", "Open Sans", "Helvetica Neue", "sans-serif";
+    font-size: 24px;
+    line-height: 31px;
+    text-align: center;
+    color: #ffffff;
+}
+.geral1{
+    font-family: "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto, Oxygen", "Ubuntu", "Cantarell", "Open Sans", "Helvetica Neue", "sans-serif";
+   font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+    color: #ffffff;
+}
+.botao{
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    text-align: center;
+    size    
+}
+
+.baixar{
+    font-family: "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto, Oxygen", "Ubuntu", "Cantarell", "Open Sans", "Helvetica Neue", "sans-serif";
+    border-style: solid;
+    border-color: #01E675;
+    background-color: #01E675;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 19px;
+    border-radius: 14px;
+}
